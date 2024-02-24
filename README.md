@@ -1,5 +1,9 @@
 # perfxdx
 
+## watch my project
+```
+https://github.com/frknbm/Perfxdx/assets/99149570/7ed7b66e-b0c4-4603-95a1-831f54e92f57
+```
 ## Project setup
 ```
 npm install
